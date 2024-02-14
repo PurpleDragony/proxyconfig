@@ -1,8 +1,5 @@
-## proxy_configuraion
-
-[![Built with ❤](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/#)
-[![made with &hearts in Python](https://img.shields.io/badge/made%20with%20%E2%9D%A4%20in-Python-red.svg)](http://shields.io/#your-badge)
-[![works on Linux](https://img.shields.io/badge/works%20on-Linux-orange.svg)](http://shields.io/#your-badge)
+## proxy_configuration
+My personalised fork of https://github.com/nityanandagohain/proxy_configuration
 
 ## Screenshot
 ![screenshot](/img/scrshot.png)
