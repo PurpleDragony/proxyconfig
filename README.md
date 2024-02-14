@@ -1,5 +1,5 @@
 ## proxyconfig
-My personalised fork of [nityanandagohain's proxy_config][https://github.com/nityanandagohain/proxy_configuration], mostly for aesthetics and making sure it works on my system.<br>
+My personalised fork of [nityanandagohain's proxy_config](https://github.com/nityanandagohain/proxy_configuration), mostly for aesthetics and making sure it works on my system.<br>
 
 ## About
     This is a script which configures removes the hassle of configuring proxy manually by supporting system wide proxy_configuration.
