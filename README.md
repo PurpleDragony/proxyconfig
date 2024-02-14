@@ -1,25 +1,17 @@
-## proxy_configuration
-My personalised fork of https://github.com/nityanandagohain/proxy_configuration
-
-## Screenshot
-![screenshot](/img/scrshot.png)
-
-
-## Requirements
-    <h4>Python3</h4>
-    To install python3 go to http://python.org
+## proxyconfig
+My personalised fork of [nityanandagohain's proxy_config][https://github.com/nityanandagohain/proxy_configuration], mostly for aesthetics and making sure it works on my system.<br>
 
 ## About
     This is a script which configures removes the hassle of configuring proxy manually by supporting system wide proxy_configuration.
-    It is kept as simple as possible . No extra library other than the one that comes with python3 is used.
+    It is kept as simple as possible. No extra library other than the one that comes with python3 is used.
 
     Currently tested on Ubuntu 14.04, 16.04, 18.04.
 
     There are four options
-    1)Set proxy : Takes input from the user and modifies the required files.
-    2)Remove proxy : Remove any proxy settings if present in the files.
-    3)View Proxy : Displays the current proxy settings if there are any.
-    4)Restore default : Restores to the state before running this script for the first time.
+    1)Set proxy: Takes input from the user and modifies the required files.
+    2)Remove proxy: Remove any proxy settings if present in the files.
+    3)View Proxy: Displays the current proxy settings if there are any.
+    4)Restore default: Restores to the state before running this script for the first time.
 
 ## Run 
 
